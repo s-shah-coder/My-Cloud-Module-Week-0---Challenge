@@ -1,6 +1,6 @@
 # fly.toml file generated for purple-frog-3861 on 2022-09-28T10:49:25+01:00
 
-app = "autumn-sunset-9635.fly.dev"
+app = "autumn-sunset-9635"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
